@@ -9,45 +9,37 @@ gtag_id = "G-XLJ81DCZFV"
 base_url = "https://jessicaacostarealtor.github.io/"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
-[[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
-[[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
-[[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
-
-
-[[sections]]
-title = "Links"
-description = "Look for me on these websites"
+title = "Contact"
+description = "Contact me one of these ways"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+icon = "https://cdn.simpleicons.org/minutemailer/ffffff"
+title = "Email"
+url = "mailto:jessica@AcostaRealtyFL.com"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+icon = "https://cdn.simpleicons.org/imessage/ffffff"
+title = "SMS"
+url = "tel:+14077290337"
+
+
+#[[sections]]
+#title = "Movies"
+#description = "Here are some of my movies"
+#direction = "column"
+#item_style = "outline"
+#[[sections.items]]
+#embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+#[[sections.items]]
+#title = "Nightcrawler"
+#description = "A mesmerizing thriller delving into the dark world of crime journalism"
+#url = "https://www.imdb.com/title/tt2872718/"
+#[[sections.items]]
+#title = "Brokeback Mountain"
+#description = "A groundbreaking romantic drama challenging societal expectations"
+#url = "https://www.imdb.com/title/tt0388795/"
+#[[sections.items]]
+#title = "Prisoners"
+#description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
+#url = "https://www.imdb.com/title/tt1392214/"
