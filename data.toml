@@ -19,9 +19,13 @@ icon = "https://cdn.simpleicons.org/minutemailer/ffffff"
 title = "Email"
 url = "mailto:jessica@AcostaRealtyFL.com"
 [[sections.items]]
+icon = "https://cdn.simpleicons.org/apple/ffffff"
+title = "Call"
+url = "tel:+14077290337"
+[[sections.items]]
 icon = "https://cdn.simpleicons.org/imessage/ffffff"
 title = "SMS"
-url = "tel:+14077290337"
+url = "sms:+14077290337"
 
 
 #[[sections]]
