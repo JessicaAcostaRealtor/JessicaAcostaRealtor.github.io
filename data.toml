@@ -1,12 +1,12 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+name = "Jessica Acosta"
+description = "Accomplished Real Estate Broker, captivating with versatility and charisma."
+keywords = "Jessica Acosta, Realtor, Broker, Space Coast, Acosta Realty, Florida"
+image = "jessica.webp"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
 gtag_id = "G-XLJ81DCZFV"
-base_url = "https://thevahidal.github.io/jake"
+base_url = "https://jessicaacostarealtor.github.io/"
 
 [[sections]]
 title = "Movies"
